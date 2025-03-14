@@ -68,3 +68,28 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+React Project Setup
+##Steps to Run the Project
+
+#Clone the repository
+git clone <repository-url>
+cd <project-folder>
+
+#Install dependencies (since node_modules is not uploaded)
+npm install
+
+#Run the project
+npm start
+
+
+❗ Why is node_modules Missing?
+node_modules is not uploaded to GitHub because it is too large and can be reinstalled easily.
+All dependencies are listed in package.json, so running npm install will download them automatically.
+
+✅ What You Need
+Node.js installed on your system
+npm (Node Package Manager) or yarn (alternative)
