@@ -72,17 +72,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
-React Project Setup
-##Steps to Run the Project
+### React Project Setup
+### -->Steps to Run the Project
 
-### Clone the repository
+### *Clone the repository
 git clone <repository-url>
 cd <project-folder>
 
-### Install dependencies (since node_modules is not uploaded)
+### *Install dependencies (since node_modules is not uploaded)
 npm install
 
-### Run the project
+### *Run the project
 npm start
 
 
