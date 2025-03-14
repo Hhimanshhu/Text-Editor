@@ -1,0 +1,11 @@
+.btn1, .btn2, .btn3, .btn4{
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+  
+  }
+  .btndiv1, .btndiv2, .btndiv3, .btndiv4{
+    display: inline-block;
+    margin-right: 10px;
+    padding-top: 10px;
+  }
